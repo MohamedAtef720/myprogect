@@ -1,1 +1,1 @@
-window.prompt('Hello User in my page .')
+// window.prompt('Hello User in my page .');
