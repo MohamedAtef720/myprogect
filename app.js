@@ -1,0 +1,1 @@
+window.prompt('Hello User in my page .')
